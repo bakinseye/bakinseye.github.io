@@ -1,0 +1,12 @@
+---
+title: "lab3"
+author: "SDS322"
+date: "2023-09-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Placeholder for website
